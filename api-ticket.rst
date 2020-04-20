@@ -4,7 +4,7 @@ Ticket
 List
 ====
 
-Required permission:
+Required permissions:
 
 * ticket.agent (access to all ticket in allocated groups)
 * ticket.customer (access to all ticket with customer_id ** current_user.id || organization_id ** current_user.organization_id)
